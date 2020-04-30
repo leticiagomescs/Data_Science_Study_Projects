@@ -1,4 +1,4 @@
-# Titanic-Survive-Prediction
+# Titanic Survive Prediction
 
 Nesse estudo iremos utilizar o conjunto de dados coletados e tratados pela equipe da Udacity (`train` e `test`). Com base nas informações dispostas nesses datasets, realizarei Insights acerca dos tripulantes e das circunstâncias que envolveram a tragédia. Uma observação importante é que o conjunto de dados disponibilizado contém informações de apenas 891 passageiros, e não de todos.
 
