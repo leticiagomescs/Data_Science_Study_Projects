@@ -2,8 +2,7 @@
 Projetos desenvolvidos ao longo dos meus estudos na área de Data Science. 
 
 ## Machine Learning
-
-### Regression 
+1. ### Regression 
 #### Linear
 ##### Simple
 - [IRIS Flower Classification]()
