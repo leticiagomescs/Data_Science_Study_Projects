@@ -16,15 +16,10 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/leticiagomescs/Codenation-AceleraDev-DataScience">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/leticiagomescs/Codenation-AceleraDev-DataScience">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leticiagomescs/Codenation-AceleraDev-DataScience">
-  <img alt="License" src="https://img.shields.io/github/license/leticiagomescs/Codenation-AceleraDev-DataScience">
-</p>
+ </p>
 
 <p align="center">
-  <a href="#programa">Programa</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#tecnologias">Tecnologias</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#licença">Licença</a>
+  <a href="#problema">Problema</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#conteúdo">Conteúdo</a>
 </p>
