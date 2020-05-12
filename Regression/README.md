@@ -2,5 +2,6 @@
   Regression
 </h1> 
 
-Os modelos de regressão são usados para prever pontos de dados contínuos, enquanto os modelos de classificação são usados para prever pontos de dados discretos .
+O objetivo da análise de regressão é explorar o relacionamento existente entre duas ou mais variáveis, visando obter informações sobre uma delas a partir dos valores conhecidas das outras.
 
+A análise de regressão busca entender o relacionamento entre variáveis, e esse relacionamento pode ser representado por uma equação matemática.
