@@ -7,4 +7,4 @@
 </h2>
 A regressão linear é um método de análise estatística que nos permite estimar o valor de uma determinada variável resposta (variável dependente) como função de outras variáveis preditoras (variáveis independentes).
 
-[]()
+[](https://miro.medium.com/max/614/1*2N1AY78eKaJr-w-Z-YaDxw.png)
