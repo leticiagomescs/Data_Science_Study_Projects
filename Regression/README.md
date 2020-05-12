@@ -6,6 +6,6 @@ O objetivo da análise de regressão é explorar o relacionamento existente entr
 
 A análise de regressão busca entender o relacionamento entre variáveis, e esse relacionamento pode ser representado por uma equação matemática.
 
-<h6 aling="right">
+<h4 aling="right">
   Fonte:https://sigmoidal.ai/como-implementar-regressao-linear-com-python/
-  </h6>
+  </h4>
