@@ -4,7 +4,7 @@
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/leticiagomescs/Data_Science_Study_Projects/Iris_Flower_Classification">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/leticiagomescs/Data_Science_Study_Projects/Iris_Flower_Classification">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/size/leticiagomescs/Data_Science_Study_Projects/Iris_Flower_Classification">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leticiagomescs/Data_Science_Study_Projects/Iris_Flower_Classification">
  </p>
 
