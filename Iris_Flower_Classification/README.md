@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://www.dotnetlovers.com/Images/IrisFlowerSepalandPetal928201820507AM.jpg" />
-</p>
-
 ---
 
 <h1 align="center">
