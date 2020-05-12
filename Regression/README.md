@@ -8,4 +8,4 @@ A análise de regressão busca entender o relacionamento entre variáveis, e ess
 
 <h6 aling="right">
   Fonte:https://sigmoidal.ai/como-implementar-regressao-linear-com-python/
-  </h6>
+</h6>
