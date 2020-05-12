@@ -2,11 +2,11 @@
 Projetos desenvolvidos ao longo dos meus estudos na área de Data Science. 
 
 ## Machine Learning
-1. ### Regression 
+### Regression 
 #### Linear
 ##### Simple
-- [IRIS Flower Classification]()
-- [Titanic Survive Prediction](https://github.com/leticiagomescs/Projetos-de-Estudo/tree/master/Titanic%20Survive%20Prediction)
+1. [IRIS Flower Classification]()
+2. [Titanic Survive Prediction](https://github.com/leticiagomescs/Projetos-de-Estudo/tree/master/Titanic%20Survive%20Prediction)
 ##### Multiple 
 #### Logistic
 
