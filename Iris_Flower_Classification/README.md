@@ -1,5 +1,3 @@
----
-
 <h1 align="center">
   Iris Species Prediction
 </h1>
