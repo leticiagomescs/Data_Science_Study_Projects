@@ -8,10 +8,6 @@
   Iris Species Prediction
 </h1>
 
-<h2 align="center">
-  Desafios para formação de Data Science
-</h2>
-
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/leticiagomescs/Codenation-AceleraDev-DataScience">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/leticiagomescs/Codenation-AceleraDev-DataScience">
