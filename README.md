@@ -2,7 +2,7 @@
 Projetos desenvolvidos ao longo dos meus estudos na área de Data Science. 
 
 ## Machine Learning
----
+
 ### Regression 
 #### Linear
 ##### Simple
