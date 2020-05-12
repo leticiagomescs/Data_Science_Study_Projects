@@ -1,6 +1,8 @@
 # Projetos de Estudo
 Projetos desenvolvidos ao longo dos meus estudos na área de Data Science. 
 
+## Data Analysis
+
 ## Machine Learning
 ### Regression 
 #### Linear
