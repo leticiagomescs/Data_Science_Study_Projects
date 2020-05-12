@@ -1,8 +1,8 @@
 <h1 align="center">
-# Projetos de Estudo
+Projetos de Estudo
 </h1>
 
-<h2 aling="center">
+<h2 align="center">
 Projetos desenvolvidos ao longo dos meus estudos na área de Data Science. 
 <h2>
   
