@@ -1,0 +1,18 @@
+---------------------------- QUESTÕES ----------------------------
+
+	a) Qual a quantidade e a porcentagem de cursos gratis e pagos;
+	b) Porcentagem  e qtd dos cursos por Tipo de Assunto;
+	c) Número de video-aulas por Tipo de Curso (Gratuito / Pago);
+	d) Os Top 10 courses subscribers and reviews;
+	e) Os top 10 cursos gerais, pagos e gratis;
+	f) Quais cursos possuem mais chances de serem vendidos?
+	g) O que fazem os cursos terem boas reviews.
+ 
+---------------------------- HIPÓTESES ----------------------------
+
+	a) Existem mais cursos Pagos que Grátis;
+	b) Cursos na área de tecnologia são os mais procurados;
+	c) Cursos pagos possuem mais video-aulas;
+	d)
+
+---------------------------- INSIGHTS ----------------------------
